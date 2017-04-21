@@ -1,0 +1,5 @@
+队列:
+1.front指向的位置不放元素
+2.数组大小为MAXSIZE, 实际存储元素为MAXSIZE-1
+3.空队列front = rear
+4.满队列front = (rear + 1) % MAXSIZE
