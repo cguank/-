@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T07:00:02.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="14.9.3" etag="3d6qyY10gO9lHSqkif3e" type="github"><diagram id="KVRLowIezbhZGOEozYNK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-03T07:23:47.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="xgBfJcqTw8_70rWFOsvC" version="14.9.3" type="github">
+  <diagram id="KVRLowIezbhZGOEozYNK" name="Page-1">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="boqucu9iPH098K0T8Y_l-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="boqucu9iPH098K0T8Y_l-1" target="boqucu9iPH098K0T8Y_l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="boqucu9iPH098K0T8Y_l-1" value="从列表页跳到详情页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boqucu9iPH098K0T8Y_l-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="boqucu9iPH098K0T8Y_l-2" target="boqucu9iPH098K0T8Y_l-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="boqucu9iPH098K0T8Y_l-2" value="list父组件&lt;br style=&quot;font-size: 16px;&quot;&gt;componentWillUnmoun&lt;br style=&quot;font-size: 16px;&quot;&gt;缓存页面滚动高度&lt;br style=&quot;font-size: 16px;&quot;&gt;list组件的state&lt;br style=&quot;font-size: 16px;&quot;&gt;search子组件的statet&lt;br style=&quot;font-size: 16px;&quot;&gt;cardlist子组件的start" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="boqucu9iPH098K0T8Y_l-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="boqucu9iPH098K0T8Y_l-3" target="boqucu9iPH098K0T8Y_l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="boqucu9iPH098K0T8Y_l-3" value="从详情页回到列表页" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boqucu9iPH098K0T8Y_l-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="boqucu9iPH098K0T8Y_l-4" target="boqucu9iPH098K0T8Y_l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="boqucu9iPH098K0T8Y_l-4" value="子组件search和cardlist读取缓存中属于自己的state" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="boqucu9iPH098K0T8Y_l-8" value="list组件读取缓存中属于自己的state&lt;br&gt;并读取移动到缓存中的滚动高度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="120" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
