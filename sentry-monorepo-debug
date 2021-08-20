@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T14:26:18.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="14.9.6" etag="75--tlU0dqf2S3Bae7gi" type="github"><diagram id="qsqp9NVPVgF8PmCvElnD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-20T01:50:41.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="tGfoFKUO6Ef4R6FGR3y3" version="14.9.6" type="github">
+  <diagram id="qsqp9NVPVgF8PmCvElnD" name="Page-1">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="vOf3Ec2AgUWtuL-GjEPd-2" target="vOf3Ec2AgUWtuL-GjEPd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-2" value="monorepo，子项目不适用sentry？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="321" y="150" width="186" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="vOf3Ec2AgUWtuL-GjEPd-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-3" value="但是发现子项目下有sentry包" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="vOf3Ec2AgUWtuL-GjEPd-4" target="vOf3Ec2AgUWtuL-GjEPd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-4" value="&lt;meta charset=&quot;utf-8&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;debug开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="vOf3Ec2AgUWtuL-GjEPd-5" target="vOf3Ec2AgUWtuL-GjEPd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-5" value="root下添加sentry是否可行" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="336" y="400" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-9" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-11" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="505" y="420" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vOf3Ec2AgUWtuL-GjEPd-16" value="把子项目sentry包删了就ok了，但是部署到远程直接构建失败，而且原因又是很奇怪" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="120" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
