@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T08:37:48.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="ooM702HXSXHuRLY7eMk0" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T08:38:37.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="oS86DwALkpSogPpoHFd9" version="15.2.5" type="github">
   <diagram id="ZPalxpBqw8RL0WP_Qi_m" name="Page-1">
-    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2125" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,8 @@
         <mxCell id="L-ifPw40xUZrogZUyTs0-13" value="brBankAccountRenderer&lt;br&gt;返回要展示的字段名和值，可以在这里对要展示的值格式化&lt;br&gt;在detail页面和confirm页面有用到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="365" y="10" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L-ifPw40xUZrogZUyTs0-14" value="addBankAccount" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="10" y="225" width="140" height="20" as="geometry" />
+        <mxCell id="L-ifPw40xUZrogZUyTs0-14" value="addBankAccount页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="225" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
