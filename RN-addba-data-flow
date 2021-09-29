@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T09:17:29.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="15.2.5" etag="-MCW9eDxtmMKXU5t0cqC" type="github"><diagram id="GtdYdSTC3K0lE_gxv58b">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-29T09:31:43.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="ncftf3roS-tXMiG5HDsK" version="15.2.5" type="github">
+  <diagram id="GtdYdSTC3K0lE_gxv58b" name="Page-1">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qGgg-0s-Wm4uSPCkL6Zp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="qGgg-0s-Wm4uSPCkL6Zp-2" target="qGgg-0s-Wm4uSPCkL6Zp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGgg-0s-Wm4uSPCkL6Zp-2" value="partialRequestToState&lt;br style=&quot;font-size: 16px;&quot;&gt;从propsData筛选字段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGgg-0s-Wm4uSPCkL6Zp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="qGgg-0s-Wm4uSPCkL6Zp-3" target="qGgg-0s-Wm4uSPCkL6Zp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGgg-0s-Wm4uSPCkL6Zp-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;partialRequestFromStateBr&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;筛选要传递的state" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qGgg-0s-Wm4uSPCkL6Zp-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;从Detai&#39;跳转，&lt;br style=&quot;font-size: 16px;&quot;&gt;编辑BA时用到&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qGgg-0s-Wm4uSPCkL6Zp-6" value="proops.addBankAccount(request)&lt;br style=&quot;font-size: 16px;&quot;&gt;proops.updateBankAccount(request)" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qGgg-0s-Wm4uSPCkL6Zp-8" value="数据命名为request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
