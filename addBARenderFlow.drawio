@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T07:13:02.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="15.2.5" etag="E857y9LSePMalUVDGS9p" type="github"><diagram id="QMIIf7o37locQmRftLEP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-29T07:32:05.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="Smo-7SNykaL8kbmeRSwC" version="15.2.5" type="github">
+  <diagram id="QMIIf7o37locQmRftLEP" name="Page-1">
+    <mxGraphModel dx="2125" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="tD28EjbeZlJ0m5HXIr7s-1" target="tD28EjbeZlJ0m5HXIr7s-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-1" value="call this.props.loadPage&lt;br style=&quot;font-size: 16px;&quot;&gt;setTimeout({&lt;br style=&quot;font-size: 16px;&quot;&gt;console.log(this.props.bankAccountsCoun&lt;br style=&quot;font-size: 16px;&quot;&gt;)},3000)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-10" width="410" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="tD28EjbeZlJ0m5HXIr7s-2" target="tD28EjbeZlJ0m5HXIr7s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-2" value="call actionConfig.onDone(t&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px;&quot;&gt;his.props&lt;/font&gt;,...)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="175" y="150" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-4" value="before call:&lt;br style=&quot;font-size: 16px;&quot;&gt;this.props.bankAccountsCount=undefined" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="565" y="-15" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-5" value="in componnentDidMount" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-30" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-6" value="setTimeout({&lt;br style=&quot;font-size: 16px;&quot;&gt;console.log(his.props.bankAccountsCoun&lt;br style=&quot;font-size: 16px;&quot;&gt;)},3000)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="175" y="270" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-7" value="when call:&lt;br style=&quot;font-size: 16px;&quot;&gt;this.props.bankAccountsCount=undefined" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="552" y="155" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-8" value="still undefined" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-10" value="此时redux 加载好了，&lt;br style=&quot;font-size: 16px;&quot;&gt;this.props.bankAccountsCount=5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="595" y="45" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-35" width="510" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="510" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-13" value="in onDone Function" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="290" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
