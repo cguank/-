@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T08:19:00.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="15.2.5" etag="63wtLIZ2uDBHsOcy9fbC" type="github"><diagram id="ZPalxpBqw8RL0WP_Qi_m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-29T08:37:48.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="ooM702HXSXHuRLY7eMk0" version="15.2.5" type="github">
+  <diagram id="ZPalxpBqw8RL0WP_Qi_m" name="Page-1">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L-ifPw40xUZrogZUyTs0-1" value="uiConfig用来渲染页面和执行逻辑操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="333" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="L-ifPw40xUZrogZUyTs0-2" target="L-ifPw40xUZrogZUyTs0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-2" value="uiConfig from ./config.js&lt;br style=&quot;font-size: 16px;&quot;&gt;下的pageConfig.marketPlace.BR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="206" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;direction=north;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="260" width="267" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-5" value="callActions&lt;br style=&quot;font-size: 16px;&quot;&gt;加载redux数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="195" y="215" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-6" value="buttonConfig&lt;br&gt;跳转下一个页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="325" y="220" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-7" value="renderer&lt;br&gt;渲染页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;direction=north;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="180" width="267" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-9" value="validateBR&lt;br&gt;用于校验表单字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="185" y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-10" value="partialRequestFromStateBr&lt;br&gt;筛选state要传给下个页面的字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="273" y="90" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-11" value="detailRenderers.marketPlace&lt;br&gt;.confirmBankAccount.BR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-12" value="" style="endArrow=classic;html=1;fontSize=16;entryX=0.518;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="L-ifPw40xUZrogZUyTs0-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="584" y="60" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-13" value="brBankAccountRenderer&lt;br&gt;返回要展示的字段名和值，可以在这里对要展示的值格式化&lt;br&gt;在detail页面和confirm页面有用到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="365" y="10" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L-ifPw40xUZrogZUyTs0-14" value="addBankAccount" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="10" y="225" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
