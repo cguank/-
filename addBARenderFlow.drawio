@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T07:32:05.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="Smo-7SNykaL8kbmeRSwC" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T07:39:08.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="7WZWU_xJDEvI8rq9VyV7" version="15.2.5" type="github">
   <diagram id="QMIIf7o37locQmRftLEP" name="Page-1">
     <mxGraphModel dx="2125" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="tD28EjbeZlJ0m5HXIr7s-8" value="still undefined" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tD28EjbeZlJ0m5HXIr7s-10" value="此时redux 加载好了，&lt;br style=&quot;font-size: 16px;&quot;&gt;this.props.bankAccountsCount=5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="tD28EjbeZlJ0m5HXIr7s-10" value="3s后redux 加载好了，&lt;br style=&quot;font-size: 16px&quot;&gt;this.props.bankAccountsCount=5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="595" y="45" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tD28EjbeZlJ0m5HXIr7s-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
