@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T10:00:39.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="15.3.7" etag="HByz77qGAwHVlzxFzKky" type="github"><diagram id="CQPUE1K_t9FcX5t9mi2i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T10:04:09.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="7lvKzNArDSvtdlIH5LZZ" version="15.3.7" type="github">
+  <diagram id="CQPUE1K_t9FcX5t9mi2i" name="Page-1">
+    <mxGraphModel dx="2125" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="mFUu2gJdEWUzmk9Chr1r-2" target="mFUu2gJdEWUzmk9Chr1r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="mFUu2gJdEWUzmk9Chr1r-2" target="mFUu2gJdEWUzmk9Chr1r-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1010" />
+              <mxPoint x="-40" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="mFUu2gJdEWUzmk9Chr1r-2" target="mFUu2gJdEWUzmk9Chr1r-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1010" />
+              <mxPoint x="438" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;uiConfig&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;callActions&lt;br style=&quot;font-size: 16px;&quot;&gt;buttonConfig:&lt;br style=&quot;font-size: 16px;&quot;&gt;renderer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1030" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="mFUu2gJdEWUzmk9Chr1r-4" target="mFUu2gJdEWUzmk9Chr1r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;uiConfig from ./config.js&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;下的pageConfig.marketPlace.BR&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1169" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-5" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline; font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;callActions&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;加载redux数据&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="910" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="mFUu2gJdEWUzmk9Chr1r-6" target="mFUu2gJdEWUzmk9Chr1r-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="mFUu2gJdEWUzmk9Chr1r-6" target="mFUu2gJdEWUzmk9Chr1r-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="890" />
+              <mxPoint x="-46" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="mFUu2gJdEWUzmk9Chr1r-6" target="mFUu2gJdEWUzmk9Chr1r-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="890" />
+              <mxPoint x="438" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-6" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;buttonConfig&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;跳转下个页面&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="910" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-7" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;renderer&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;渲染页面&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="910" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="mFUu2gJdEWUzmk9Chr1r-8" target="mFUu2gJdEWUzmk9Chr1r-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-8" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;detailRenderers&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;.marketPlace&lt;br style=&quot;font-size: 16px;&quot;&gt;.confirmBankAccount&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;.BR&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="760" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-9" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;partialRequestFromStateBr&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;筛选state要&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;传给下个页面的字段&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-10" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; text-decoration: underline ; font-size: 16px&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;div style=&quot;text-align: center ; font-size: 16px&quot;&gt;validateBR&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 16px&quot;&gt;&lt;p style=&quot;text-align: center ; margin: 0px 0px 0px 8px ; font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用于校验表单字段&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="780" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mFUu2gJdEWUzmk9Chr1r-11" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;brBankAccountRenderer&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;返回要展示的字段名和值，&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;可以在这里对要展示的值格式化&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;在detail页面和confirm页面有用到&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="600" width="265" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
