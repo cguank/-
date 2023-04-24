@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T10:17:19.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zjJaIeYdTTgETGRQ7EpX" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T11:01:19.374Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="J_yeeZRCiC9n_3xBj7nh" version="21.2.1" type="github">
   <diagram name="第 1 页" id="bDwYdzYz9UJHrXcffTMU">
-    <mxGraphModel dx="1306" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="R60Q2acpEYvKiVIL4T-u-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-12" target="R60Q2acpEYvKiVIL4T-u-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R60Q2acpEYvKiVIL4T-u-12" value="scheduleUpdateOnFiber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-12" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;scheduleUpdateOnFiber&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-14" target="R60Q2acpEYvKiVIL4T-u-16">
@@ -74,6 +74,63 @@
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-24" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="570" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-26" target="R60Q2acpEYvKiVIL4T-u-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-26" value="unstable_scheduleCallback" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-27" value="- 创建task，根据优先级设置过期时间&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- startTime和当前时间比较，插入timerQueue或taskQueue&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="10" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-28" target="R60Q2acpEYvKiVIL4T-u-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-28" value="requestHostCallback" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-30" value="- scheduledHostCallback = flushwork&lt;br&gt;- call port.postMessage 推入新的宏任务" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="130" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-31" target="R60Q2acpEYvKiVIL4T-u-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-31" value="浏览器开启新一轮宏任务&lt;br&gt;performWorkUntilDeadline" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-34" target="R60Q2acpEYvKiVIL4T-u-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-34" value="call&lt;br&gt;&amp;nbsp;scheduledHostCallback" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-36" target="R60Q2acpEYvKiVIL4T-u-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-36" value="workloop" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-38" value="实际就是flushWork" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="245" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-39" value="递归取出taskQueue执行callback，&lt;br&gt;并将timerQueue里超时的任务推入taskQueue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="360" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-40" target="R60Q2acpEYvKiVIL4T-u-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-40" value="执行callback：&lt;br&gt;performConcurrentWorkOnRoot" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-42" target="R60Q2acpEYvKiVIL4T-u-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-42" value="render阶段" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60Q2acpEYvKiVIL4T-u-44" value="commit阶段" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
