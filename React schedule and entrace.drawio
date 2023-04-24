@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T10:14:09.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IxwyxKqF04_oAH5brHVQ" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T10:17:19.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zjJaIeYdTTgETGRQ7EpX" version="21.2.1" type="github">
   <diagram name="第 1 页" id="bDwYdzYz9UJHrXcffTMU">
     <mxGraphModel dx="1306" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,34 +23,34 @@
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-5" value="创建fiberRootNode和rootFiber&lt;br&gt;fiberRootNode.current = rootFiber&lt;br&gt;rootFiber.stateNode = fiberRootNode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="120" width="220" height="60" as="geometry" />
+          <mxGeometry x="60" y="120" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-7" target="R60Q2acpEYvKiVIL4T-u-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-7" value="ReactDOMRoot.prototype.render" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-9" target="R60Q2acpEYvKiVIL4T-u-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-9" value="updateContainer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-11" value="生成update并enqueueUpdate&lt;br&gt;update最主要就是保存了element" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="343" width="200" height="40" as="geometry" />
+          <mxGeometry x="690" y="240" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-12" target="R60Q2acpEYvKiVIL4T-u-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-12" value="scheduleUpdateOnFiber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-14" target="R60Q2acpEYvKiVIL4T-u-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-14" value="ensureRootIsScheduled" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R60Q2acpEYvKiVIL4T-u-16" target="R60Q2acpEYvKiVIL4T-u-21">
           <mxGeometry relative="1" as="geometry">
@@ -61,19 +61,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-16" value="lane==SyncLane" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="670" width="130" height="110" as="geometry" />
+          <mxGeometry x="315" y="450" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-20" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="688" width="30" height="30" as="geometry" />
+          <mxGeometry x="465" y="460" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-21" value="&lt;div&gt;scheduleCallback(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; schedulerPriorityLevel,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; performConcurrentWorkOnRoot.bind(null, root),&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="692.5" width="270" height="65" as="geometry" />
+          <mxGeometry x="520" y="472.5" width="270" height="65" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-22" value="scheduleSyncCallback(performSyncWorkOnRoot.bind(null, root));" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="860" width="120" height="95" as="geometry" />
+          <mxGeometry x="320" y="610" width="120" height="95" as="geometry" />
         </mxCell>
         <mxCell id="R60Q2acpEYvKiVIL4T-u-24" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="798" width="30" height="30" as="geometry" />
+          <mxGeometry x="400" y="570" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
