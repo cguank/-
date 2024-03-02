@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T14:17:38.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lsN3DVJy4iHoRJxC3afk" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T13:45:55.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2oRZLDtgQxhA1zOiN4_i" version="24.0.0" type="github">
   <diagram name="第 1 页" id="HTvTjgGHZewN67WrwBLT">
     <mxGraphModel dx="1050" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,14 @@
         <mxCell id="Z5Ah05NcUt1ueV7QOjjv-13" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yiw3E5B7QqdanoLgcR7H-1" value="平均数:A/B 平均数增长率 (a-b)/1+b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-45" width="210" height="30" as="geometry" />
+        <mxCell id="yiw3E5B7QqdanoLgcR7H-1" value="平均数:A/B 平均数增长率 (a-b)/1+b， 平均数增长量&lt;span style=&quot;text-wrap: wrap;&quot;&gt;A/B*(a-b)/(1+a)&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="-45" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVCM04zoc-9TcHvLSZzx-1" value="增长贡献率=部分增长量/整体增长量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-112" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVCM04zoc-9TcHvLSZzx-2" value="年均增长率：(1+r)^n=A/B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-160" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
