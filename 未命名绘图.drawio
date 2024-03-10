@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T10:37:46.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="W6D4Q8Wn_ibISCdcY9lS" version="24.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T03:09:20.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="T1js-Vp1P0QqJ4UOjppt" version="24.0.3" type="github">
   <diagram name="第 1 页" id="HTvTjgGHZewN67WrwBLT">
     <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,25 +55,25 @@
         <mxCell id="gVCM04zoc-9TcHvLSZzx-5" value="间隔增长率：r1+r2+r1*r2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="-212" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gVCM04zoc-9TcHvLSZzx-6" value="给了20年和20年到18年，求19年" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-212" width="200" height="30" as="geometry" />
+        <mxCell id="gVCM04zoc-9TcHvLSZzx-6" value="给了20年和20年到18年，求19年；2年的平均增长率也算间隔增长率" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="-212" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CemZuclClHYgED9WdzQw-1" value="年均增长量=(现-基)/年份差" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e1JVcgHmtpoTOXpImttJ-1" value="增幅就是增长率" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="e1JVcgHmtpoTOXpImttJ-1" value="增幅就是增长率" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="388" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1JVcgHmtpoTOXpImttJ-2" value="百花分，r&amp;lt;0则是 n-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="108" width="130" height="30" as="geometry" />
+        <mxCell id="e1JVcgHmtpoTOXpImttJ-2" value="百花分，r&amp;lt;0则是 n-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="580" y="95" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1JVcgHmtpoTOXpImttJ-3" value="相同分母，占比比较，A分子20占比20%，B分子10求占比。&lt;div&gt;传统就是求出总占比。&lt;/div&gt;&lt;div&gt;但其实可以，用分子的倍数来求占比 20/10 = 20%/b&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="e1JVcgHmtpoTOXpImttJ-3" value="相同分母，占比比较，A分子20占比20%，B分子10求占比。&lt;div&gt;传统就是求出总占比。&lt;/div&gt;&lt;div&gt;但其实可以，用分子的倍数来求占比 20/10 = 20%/b&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry y="480" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e1JVcgHmtpoTOXpImttJ-4" value="增长量同比增速超过50%的年份，可以用基期*1.5&amp;lt;现期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="e1JVcgHmtpoTOXpImttJ-4" value="增长量同比增速超过50%的年份，可以用基期*1.5&amp;lt;现期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-10" y="570" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1JVcgHmtpoTOXpImttJ-6" value="求总数大于某个数，可以利用平均数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="e1JVcgHmtpoTOXpImttJ-6" value="求总数大于某个数，可以利用平均数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-10" y="638" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
