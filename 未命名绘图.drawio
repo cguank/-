@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T06:52:41.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zKh4aUxSAKb811f1NAH1" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T00:47:48.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S6V25YfpX6vhm2hxWyup" version="24.0.7" type="github">
   <diagram name="第 1 页" id="HTvTjgGHZewN67WrwBLT">
     <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="Z5Ah05NcUt1ueV7QOjjv-13" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yiw3E5B7QqdanoLgcR7H-1" value="平均数:A/B 平均数增长率 (a-b)/1+b， 平均数增长量&lt;span style=&quot;text-wrap: wrap;&quot;&gt;A/B*(a-b)/(1+a)&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-45" width="380" height="30" as="geometry" />
+        <mxCell id="yiw3E5B7QqdanoLgcR7H-1" value="平均数:A/B 平均数增长率 (a-b)/1+b，&lt;div&gt;&amp;nbsp;平均数增长量&lt;span style=&quot;text-wrap: wrap;&quot;&gt;A/B*(a-b)/(1+a)&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-50" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gVCM04zoc-9TcHvLSZzx-1" value="增长贡献率=部分增长量/整体增长量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="-112" width="210" height="30" as="geometry" />
@@ -82,13 +82,13 @@
         <mxCell id="RAjFajd8suXD8HvhYq43-2" value="2016-2020年年份差是4不是5，十二五期间年份差是5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="355" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PmT9kRilfWst_Rljmmti-1" value="19年...占...的比重为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PmT9kRilfWst_Rljmmti-1" value="19年...占...的比重为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="175" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PmT9kRilfWst_Rljmmti-2" value="混合增长率、线段法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PmT9kRilfWst_Rljmmti-2" value="混合增长率、线段法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="-260" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PmT9kRilfWst_Rljmmti-3" value="福建21年110、119" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PmT9kRilfWst_Rljmmti-3" value="福建21年110、119" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="535" y="-260" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
