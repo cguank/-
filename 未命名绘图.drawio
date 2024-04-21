@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T01:03:48.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VmbAvPU9JPydMi5GZKFd" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T10:29:06.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MgHPzBuheqraYJskwjIb" version="24.2.7" type="github">
   <diagram name="第 1 页" id="HTvTjgGHZewN67WrwBLT">
     <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,8 +91,11 @@
         <mxCell id="PmT9kRilfWst_Rljmmti-3" value="福建21年110、119" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="535" y="-260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omtQCVq8to7Whv7b37_5-1" value="A/B - 基期A/基期B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="omtQCVq8to7Whv7b37_5-1" value="A/B - 基期A/基期B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="258" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XeMVIHHSxNXB2-80rpeW-1" value="利润率=利润/收入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-292" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
