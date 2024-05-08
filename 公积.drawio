@@ -1,20 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T14:17:00.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QEnz7nrw2vUFdtdmv9Fm" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T14:40:58.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="whP4Ixw4Yw-HkgMik-UO" version="24.3.0" type="github">
   <diagram name="第 1 页" id="9cOVtWoqRpHsyyoPQM1w">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4WQlWzJM2xi80WpdYUxq-1" value="矛盾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4WQlWzJM2xi80WpdYUxq-2" value="质量互变：形式状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="150" width="130" height="30" as="geometry" />
+          <mxGeometry x="365" y="270" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4WQlWzJM2xi80WpdYUxq-3" value="否定之否定：方向道路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="210" width="140" height="30" as="geometry" />
+          <mxGeometry x="365" y="330" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4WQlWzJM2xi80WpdYUxq-4" value="对立统一：源泉和动力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="140" height="30" as="geometry" />
+          <mxGeometry x="355" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-5" value="怎么做：区分主次矛盾&lt;div&gt;怎么看：矛盾的主要方面&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-6" value="联系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="8" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-7" value="定义：外+内" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="-42" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-8" value="特点：客观；普遍性；条件性；多样性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-9" value="整体与部分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-10" value="整体起主导" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-11" value="关键部分起决定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="70" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-12" value="部分有&lt;b&gt;机组合&lt;/b&gt;成整体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-13" value="三大规律" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="318" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-14" value="发展与运动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-15" value="新事物产生旧事物灭亡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
