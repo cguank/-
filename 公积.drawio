@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T14:15:40.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OhoCxY7juxcd_PBOE6wN" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T14:17:00.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QEnz7nrw2vUFdtdmv9Fm" version="24.3.0" type="github">
   <diagram name="第 1 页" id="9cOVtWoqRpHsyyoPQM1w">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="4WQlWzJM2xi80WpdYUxq-1" value="矛盾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4WQlWzJM2xi80WpdYUxq-2" value="质量互变：防微杜渐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4WQlWzJM2xi80WpdYUxq-2" value="质量互变：形式状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4WQlWzJM2xi80WpdYUxq-3" value="否定之否定：方向道路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
