@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T15:12:52.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="34mye4R_7pbueHx8fe0C" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T14:38:40.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dC0LIxglSrmm3_Cbs2dH" version="24.3.1" type="github">
   <diagram name="第 1 页" id="9cOVtWoqRpHsyyoPQM1w">
     <mxGraphModel dx="1050" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,53 +49,162 @@
         <mxCell id="4WQlWzJM2xi80WpdYUxq-15" value="新事物产生旧事物灭亡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="160" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-2" value="认识论" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-2" value="认识论" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-3" value="三大核心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-3" value="三大核心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="580" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-4" value="两大规律" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-4" value="两大规律" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="800" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-5" value="实践" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-5" value="实践" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="305" y="520" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-6" value="认识" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-6" value="认识" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="305" y="570" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-7" value="真理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-7" value="真理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="305" y="630" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-10" value="含义：人有目的、能动的，改造和探索世界" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-10" value="含义：人有目的、能动的，改造和探索世界" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="490" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-11" value="特征：客观；物质性；直接现实性；社会历史性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-11" value="特征：客观；物质性；直接现实性；社会历史性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="540" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-12" value="主体对客体及其规律的正确反映" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-12" value="主体对客体及其规律的正确反映" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="610" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-13" value="特点：客观性；具体性：绝对客观" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-13" value="特点：客观性；具体性：绝对客观" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="660" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-14" value="实践vs认识：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-14" value="实践vs认识：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="760" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-15" value="实践是认识的基础；来源；动力；唯一标准；目的和归宿" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-15" value="实践是认识的基础；来源；动力；唯一标准；目的和归宿" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="355" y="730" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-16" value="认识反作用于实践" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-16" value="认识反作用于实践" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="355" y="780" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-17" value="发展" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-17" value="发展" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="840" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-18" value="感性-》理性：理性认识依赖感性认识，感性认识是其起点和基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-18" value="感性-》理性：理性认识依赖感性认识，感性认识是其起点和基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="830" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTqvQ2y9LpoU53bTNXRC-19" value="理性-》实践" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DTqvQ2y9LpoU53bTNXRC-19" value="理性-》实践" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CKTUZyLoFjiA4_pzSxb-1" target="4CKTUZyLoFjiA4_pzSxb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-1" value="社会存在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-2" value="地理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1050" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-3" value="人口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-4" value="生产方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CKTUZyLoFjiA4_pzSxb-5" target="4CKTUZyLoFjiA4_pzSxb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-5" value="生产力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CKTUZyLoFjiA4_pzSxb-6" target="4CKTUZyLoFjiA4_pzSxb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-6" value="生产关系：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-8" value="决定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CKTUZyLoFjiA4_pzSxb-6" target="4CKTUZyLoFjiA4_pzSxb-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1190" />
+              <mxPoint x="389" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-10" value="反作用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-11" value="劳动者；劳动对象；劳动资料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1100" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1070" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-13" value="&lt;b&gt;所有制关系&lt;/b&gt;；分配关系；地位和相互作用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-14" value="3者中起决定作用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="1100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.188;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4CKTUZyLoFjiA4_pzSxb-14" target="4CKTUZyLoFjiA4_pzSxb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CKTUZyLoFjiA4_pzSxb-17" target="4CKTUZyLoFjiA4_pzSxb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-17" value="经济基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1292" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4CKTUZyLoFjiA4_pzSxb-19" target="4CKTUZyLoFjiA4_pzSxb-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1332" />
+              <mxPoint x="520" y="1332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-19" value="上层建筑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1292" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-21" value="决定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-23" value="反作用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-24" value="政治上层建筑；观念（思想道德）上层建筑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1248" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1220" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4CKTUZyLoFjiA4_pzSxb-26" target="4CKTUZyLoFjiA4_pzSxb-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="1305" />
+              <mxPoint x="70" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-26" value="社会意识" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-28" value="决定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-31" value="反作用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1228" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-32" value="具有相对独立性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1322" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKTUZyLoFjiA4_pzSxb-33" value="人的本质是一切社会关系的总和" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1428" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
