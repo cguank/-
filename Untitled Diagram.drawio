@@ -402,7 +402,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-73" value="内存变量&lt;div&gt;isInstallFail&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-73" value="内存变量&lt;div&gt;isInstallFail&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;或者&lt;/div&gt;&lt;div&gt;toggle关闭？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="800" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-76" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
