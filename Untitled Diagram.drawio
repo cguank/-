@@ -253,11 +253,10 @@
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-370" y="290" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-23" target="R_xEhL4o1WV7Pzbjf2uw-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-23" value="组件挂载后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="R_xEhL4o1WV7Pzbjf2uw-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1190" y="810" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-25" value="安装自定义键盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="670" width="120" height="60" as="geometry" />
@@ -270,12 +269,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-27" value="使用原生键盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-30" target="R_xEhL4o1WV7Pzbjf2uw-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-270" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-30" target="R_xEhL4o1WV7Pzbjf2uw-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-30" target="R_xEhL4o1WV7Pzbjf2uw-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-30" value="安装成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -287,17 +286,17 @@
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-32" value="唤起自定义键盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-38" target="R_xEhL4o1WV7Pzbjf2uw-23">
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-38" target="R_xEhL4o1WV7Pzbjf2uw-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-38" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1250" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-39" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-40" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="660" width="40" height="30" as="geometry" />
+          <mxGeometry x="-350" y="655" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-41" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-440" y="770" width="40" height="30" as="geometry" />
@@ -376,6 +375,41 @@
         </mxCell>
         <mxCell id="R_xEhL4o1WV7Pzbjf2uw-69" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-790" y="825" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-70" target="R_xEhL4o1WV7Pzbjf2uw-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-70" value="上报监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-71" target="R_xEhL4o1WV7Pzbjf2uw-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-210" y="930" />
+              <mxPoint x="-210" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-71" value="设置内存变量&lt;div&gt;isInstallFail=true&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R_xEhL4o1WV7Pzbjf2uw-73" target="R_xEhL4o1WV7Pzbjf2uw-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-900" y="860" />
+              <mxPoint x="-900" y="1040" />
+              <mxPoint x="-210" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-73" value="内存变量&lt;div&gt;isInstallFail&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-76" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="828" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R_xEhL4o1WV7Pzbjf2uw-77" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="760" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
