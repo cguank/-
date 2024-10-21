@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GEDW3krAouCJnoyw2xYB-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1600" y="160" width="280" height="230" as="geometry" />
+          <mxGeometry x="-1690" y="170" width="280" height="230" as="geometry" />
         </mxCell>
         <mxCell id="0AzlVGfA-dQduF-Cls8U-2" value="redux" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="190" y="420" width="120" height="60" as="geometry" />
@@ -445,19 +445,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-5" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1620" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEDW3krAouCJnoyw2xYB-6" target="GEDW3krAouCJnoyw2xYB-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-6" value="定义.shopee.json文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="185" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1620" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEDW3krAouCJnoyw2xYB-7" target="GEDW3krAouCJnoyw2xYB-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-7" value="生成schema.ts文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1620" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEDW3krAouCJnoyw2xYB-8" target="GEDW3krAouCJnoyw2xYB-3">
           <mxGeometry relative="1" as="geometry" />
@@ -469,19 +469,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-9" value="业务方通过每一项的Schema ID关联TMS上报项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1620" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GEDW3krAouCJnoyw2xYB-10" target="GEDW3krAouCJnoyw2xYB-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-10" value="业务上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1620" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1620" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GEDW3krAouCJnoyw2xYB-13" value="拉取TMS Schema 定义文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1410" y="250" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1480" y="270" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
